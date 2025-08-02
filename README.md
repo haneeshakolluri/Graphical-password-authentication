@@ -1,5 +1,10 @@
 # Graphical Password Authentication
 A secure graphical password authentication system where users log in by clicking specific points on an image. This approach enhances security by resisting brute-force, keylogging, and shoulder surfing attacks while improving usability over traditional text passwords.
+
+## 🔗 Demo
+
+[See the Live Demo](https://drive.google.com/file/d/1d9xXSfblK2h6U26A06myzM3lXfKNM_Fs/view?usp=drive_link)
+
 # 🚀 Features
 **Graphical Password Login**: Users authenticate by clicking specific points on an image rather than typing a text password.
 
